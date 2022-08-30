@@ -30,6 +30,7 @@ public class Accounts {
 		this.status = status;
 		this.paymentStatus = paymentStatus;
 		this.comment = comment;
+		
 	}
 	
 	public long getId() {
